@@ -1,0 +1,100 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.Home-main {    
+    height: 100vh;
+    border: 15px solid  goldenrod;
+    background-image: url('./library.jpg');
+    background-size: cover;    
+}
+
+.Home-title {
+    background-color:powderblue;
+    border: 10px solid goldenrod;
+    margin-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Home-title-text {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main-content-div {
+    background-color:powderblue;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 10px solid goldenrod;
+}
+
+.Home-table {
+    margin-top: 1%;
+    margin-left: 10%;
+    border: 1px solid darkmagenta;
+}
+
+.button-group {
+    border: 1px solid darkmagenta;
+}
+.Home-button1 {
+    background-color: saddlebrown; 
+}
+
+.Home-button {
+    width: 100%;    
+    background-color: rosybrown;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 10px 10px;
+    font-size: larger;
+    font-weight: bold;    
+}
+
+button{
+    background-color: saddlebrown;
+    color: white;
+}
+
+.AddBooks-table {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 15%;
+    margin-right: 4;    
+}
+
+.tr, td {
+    padding: 1px;    
+}
+
+.card-title{
+    font-weight: bolder;
+}
+
+.view-table {
+    width: 100%;
+}
+
+.view-table-header {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    color: pink;
+    font-weight: bold;
+  }
+  .view-table-data {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+  }
+
+  .view-table-row:nth-child(even) {
+    background-color:tomato ;
+  }
+  .view-table-row:nth-child(odd) {
+    background-color: steelblue ;
+  }*/

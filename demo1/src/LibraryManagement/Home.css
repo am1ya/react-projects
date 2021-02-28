@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.Home-main {    
+    height: 100vh;
+    border: 30px solid  goldenrod;
+    background-image: url('./library.jpg');
+    background-size: cover;    
+
+}
+
+.Home-title {
+    background-color:powderblue;
+    border: 10px solid saddlebrown;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.left-panel-dummy {
+    background-color:cadetblue;
+    border: 5px solid brown;
+    margin-right: 85%;
+}
+
+.left-panel {
+    background-color:cadetblue;
+    border: 10px solid saddlebrown;
+    margin-left: 0%;
+    margin-right: 80%;
+    height: 100%;
+
+}
+
+.right-panel {
+    border: 10px solid saddlebrown;
+    margin-top: 0%;
+}
+
+.Home-table {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 1px solid black;
+    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    border: 1px solid palevioletred;
+}
+
+.Home-button {
+    width: 100%;    
+    background-color: rosybrown;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 10px 50px;
+    font-size: smaller;
+    font-weight: bold;    
+}
+/* ------------------------------------------ */
+.container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .leftpane {
+      width: 25%;
+      height: 100%;
+      float: left;
+      /*background-color: rosybrown;*/
+      border-collapse: collapse;
+      padding-right:3px;
+  }
+  
+  .middlepane {
+      width: 50%;
+      height: 100%;
+      float: left;
+      background-color: coral;  
+      border-collapse: collapse;
+  }
+  
+  .rightpane {
+    width: 25%;
+    height: 100%;
+    position: relative;
+    float: right;
+    /*background-color: yellow;*/
+    border-collapse: collapse;
+  }
+
