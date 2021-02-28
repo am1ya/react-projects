@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+.Home-main {    
+    height: 100vh;
+    border: 30px solid  goldenrod;
+    background-image: url('./library.jpg');
+    background-size: cover;    
+}
+
+.Home-title {
+    background-color:powderblue;
+    border: 10px solid saddlebrown;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Home-buttons-list {
+    background-color:powderblue;
+    border: 10px solid saddlebrown;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Home-title-text {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Home-table {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 30%;
+    margin-right: 25%;
+    border: 1px solid black;
+}
+
+.Home-button {
+    width: 100%;    
+    background-color: rosybrown;
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 10px 50px;
+    font-size: larger;
+    font-weight: bold;    
+}

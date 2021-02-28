@@ -1,0 +1,19 @@
+.AddBooks-table {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 15%;
+    margin-right: 4;    
+}
+
+.tr, td {
+    padding: 1px;    
+}
+
+.card-title {
+    text-align: center;
+}
+
+button{
+    background-color: saddlebrown;
+    color: white;
+}

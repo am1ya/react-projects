@@ -1,0 +1,35 @@
+.Parent {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .parent-component {
+    padding: 15px;
+    border: 1px solid yellow;
+  }
+  
+  .parent-component button {
+    margin-top: 10px;
+    background: yellow;
+    border: 0;
+    padding: 10px 18px;
+    color: #000;
+  }
+  
+  .child-component {
+    padding: 15px;
+    border: 1px solid blue;
+    margin-top: 10px;
+  }
+  
+  .grandchild-component {
+    padding: 15px;
+    border: 1px solid deeppink;
+    margin-top: 10px;
+  }
+  
+  .emp {
+    font-weight: 600;
+    margin-top: 15px;
+    color: deeppink;
+  }
